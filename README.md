@@ -3,7 +3,7 @@
 **Privacy-focused mailing list management solution for WordPress** using **Zero Knowledge Proofs (ZKP)** on **Cardano’s Midnight Network**.
 
 ## 🎯 **Project Overview**
-WP ZKP Mail is an innovative open-source project aimed at providing a secure, decentralized solution for mailing list management within WordPress, built on the Cardano blockchain’s **Midnight Network**. By integrating **Zero Knowledge Proofs**, it ensures data privacy while maintaining scalability and adaptability.
+WP ZKP Mail is an innovative open-source project aimed at providing a secure, decentralized solution for mailing list management within WordPress, built on Cardano blockchain’s **Midnight Network**. By integrating **Zero Knowledge Proofs**, it ensures data privacy while maintaining scalability and adaptability.
 
 ## 🔍 **Problem Statement**
 Traditional mailing list management systems lack sufficient privacy controls, potentially exposing sensitive user data to third-party entities. With growing concerns about data protection, there is a need for a solution that ensures both privacy and transparency.
@@ -45,5 +45,5 @@ WP ZKP Mail leverages cutting-edge cryptography to ensure:
 ## 📣 **Get Involved**
 We welcome contributions from developers, cryptography enthusiasts, and WordPress experts! Feel free to submit issues, pull requests, and suggestions.
 
-## 📞 **Contact**
+## 💬 **Contact**
 For more details, reach out through our [proposal page](https://cardano.ideascale.com/c/idea/127060).
