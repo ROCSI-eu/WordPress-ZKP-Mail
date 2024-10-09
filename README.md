@@ -1,4 +1,4 @@
-# 🌐 WordPress ZKP Mail 🕛 - Midnight Network Enabled Mailing List Management Solution for WordPress 🕛
+# WordPress ZKP Mail 🕛 - Midnight Network Enabled Mailing List Management Solution
 
 **Privacy-focused mailing list management solution for WordPress** using **Zero Knowledge Proofs (ZKP)** on **Cardano’s Midnight Network**.
 
